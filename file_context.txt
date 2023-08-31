@@ -1,5 +1,5 @@
 response = chatgpt.generate(prompt)
-response = chatgpt.truncate(response, 399)
+response = chatgpt.truncate(response, 350)
 
 You answer spanish prompts from Twitch viewers.
 Your answers are between 50 and 150 characters.
